@@ -8,6 +8,10 @@ Also, the framework mitigates the computational burden of instance-based models,
 The method significantly reduces computational complexity by leveraging the generalization capabilities of pairwise distance trees and employing sampling strategies to select representative subsets. 
 Our experiments demonstrate that the proposed approach improves computational efficiency with only a modest trade-off in accuracy while substantially enhancing the interpretability of the learned distance measure.
 
+![PairTree Overview](https://github.com/user-attachments/assets/b944e9d7-bfef-4c1a-92db-82e3d603473c)
+![](path_to_image)
+*At inference time, given a query instance $`x`$, the model selects relevant neighbors from the memory $`\langle X, Y \rangle`$ by evaluating $`r(x,x_i)`$ and applies an inference policy $`\phi`$, i.e., majority voting, to produce a final prediction. Each prediction can be inspected, since the distance function employed for neighborhood selection is fully interpretable.*
+
 # Quickstart
 ## Installation
 Installation through git:
