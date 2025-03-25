@@ -1,0 +1,38 @@
+## small datasets
+
+lrs - https://archive.ics.uci.edu/dataset/93/low+resolution+spectrometer
+ionosphere - https://archive.ics.uci.edu/dataset/52/ionosphere
+iris - https://archive.ics.uci.edu/dataset/53/iris
+vertebral_column - https://archive.ics.uci.edu/dataset/212/vertebral+column
+seeds - https://archive.ics.uci.edu/dataset/236/seeds
+glass - https://archive.ics.uci.edu/dataset/42/glass+identification
+algerian_forest_fire - https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset
+breast - https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+ecoli - https://archive.ics.uci.edu/dataset/39/ecoli
+
+
+## large datasets
+
+steel_plates_faults - https://archive.ics.uci.edu/dataset/198/steel+plates+faults
+compas - https://github.com/propublica/compas-analysis
+spambase - https://archive.ics.uci.edu/dataset/94/spambase
+
+#we consider subsets of 2k size of the following further datasets obtained from OpenML library
+
+bank-marketing - https://archive.ics.uci.edu/dataset/222/bank+marketing
+covertype - https://archive.ics.uci.edu/dataset/31/covertype
+sylvine - https://www.openml.org/search?type=data&sort=runs&id=41146&status=active
+road-safety - https://www.openml.org/search?type=data&sort=runs&id=45038&status=active
+eye - https://www.openml.org/search?type=data&sort=runs&id=1044&status=active
+MagicTelescope - https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
+house - https://www.openml.org/search?type=data&id=44139&sort=runs&status=active
+pol - https://www.openml.org/search?type=data&sort=runs&id=201&status=active
+
+
+
+
+
+
+
+
+
